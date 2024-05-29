@@ -107,7 +107,7 @@ read -n 1 -s -r -p "Press any key to back on menu"
 echo -e Proses Update Script berjalan, mohon ditunggu......
 sleep 1
 echo -e
-hilink update
+download_files
 sleep 3
 clear
 echo -e
