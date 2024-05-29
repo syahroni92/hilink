@@ -169,7 +169,7 @@ fi
 }
 info(){
  clear
- ipmod $1
+ ipmodem $1
  login
  clear
  echo -e "---------------------------"
